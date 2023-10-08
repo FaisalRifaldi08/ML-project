@@ -21,4 +21,4 @@ Proyek ini merupakan bagian dari akhir pembelajaran dalam Akademi Machine Learni
 Hasil proyek ini adalah sebuah model pembelajaran mesin yang dapat mengenali bentuk tangan yang membentuk gunting, batu, atau kertas dengan tingkat akurasi yang memadai. Model ini dapat digunakan dalam permainan "Gunting, Batu, Kertas" atau aplikasi lain yang memerlukan pengenalan bentuk tangan.
 
 ## Rating
-![Rating]('https://github.com/FaisalRifaldi08/ML-project/blob/main/ML%20Rating%20.png')
+![Rating](https://github.com/FaisalRifaldi08/ML-project/blob/main/ML%20Rating%20.png)
